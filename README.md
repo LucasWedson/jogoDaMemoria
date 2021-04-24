@@ -12,5 +12,5 @@
 <p> Interfaces:</p>
 <p align="center">
   <img src="https://github.com/LucasWedson/jogoDaMemoria/blob/main/jogoDaMemoria/assets/images/primeira1.PNG" width="350" >
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://github.com/LucasWedson/jogoDaMemoria/blob/main/jogoDaMemoria/assets/images/segundai.PNG" width="350" alt="accessibility text">
 </p>
