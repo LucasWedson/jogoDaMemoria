@@ -11,6 +11,6 @@
 <br>
 <p> Interfaces:</p>
 <p align="center">
-  <img src="https://github.com/LucasWedson/jogoDaMemoria/blob/main/jogoDaMemoria/assets/images/primeira1.PNG" width="350" >
+  <img src="https://github.com/LucasWedson/jogoDaMemoria/blob/main/jogoDaMemoria/assets/images/primeira1.PNG" width="350" ><br>
   <img src="https://github.com/LucasWedson/jogoDaMemoria/blob/main/jogoDaMemoria/assets/images/segundai.PNG" width="350" alt="accessibility text">
 </p>
